@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9FEC6CAF-7C87-604E-C9C5-A3A919EB8718}</ProjectGuid>
+    <ProjectGuid>{17373549-F20F-7C48-BAF5-6E8BC247178D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,10 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\DoWhileLoop.cs" />
-     <Compile Include="Assets\ForEachLoop.cs" />
-     <Compile Include="Assets\ForLoop.cs" />
-     <Compile Include="Assets\WhileLoop.cs" />
+     <Compile Include="Assets\Arrays.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
